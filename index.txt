@@ -73,11 +73,11 @@
     <div>
     <ul id="lis">
       
-        <li>Programming Languages &ensp; : Java, .Net, C, C++</li>
+        <li>Programming Languages &ensp; :Java, Python, C, C++</li>
         <li>Database       &ensp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; : Oracle, MySQL</li>
         <li>Operating Systems  &emsp;&emsp;&ensp;&ensp;  : Windows, Ubuntu, MS-DOS</li>
-        <li>Web Technologies &emsp;&emsp;&ensp; &ensp;  : HTML, CSS, JavaScript, Angular</li>
-  
+        <li>Web Technologies &emsp;&emsp;&ensp; &ensp;  : HTML, CSS, JavaScript</li>
+        <li>Development Tools  &emsp;&emsp; &ensp; : Eclipse </li>
           
     </ul>
 </div>
@@ -106,13 +106,8 @@
 <ul id="lis">
 <li>Providing support to hardware and software problems at HQ Southern Air Command 
 Trivandrum</li>
-
-
-<h3><span></span>Associate Software Engineer</h3>
-    <h3><span>Mphasis Ltd – Feb 2022 – Present </span></h3>
-
-
-   <li>Trained in .net and developed a Car Rental System. In this project, we simulated the back-end of a Car Rental system using ASP.Net Core and the front-end using Angular</li>
+   <li>Develops and manages effective professional working relationship with contractor 
+personnel, co-worker and clients</li>
             </div>
 </ul>
 </div>
